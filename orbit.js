@@ -1,6 +1,6 @@
-// title:  gravity balls
+// title:  balls
 // author: gav
-// desc:   just playing with gravity and elastic collision
+// desc:   playing with gravity and elastic collision
 // script: js
 
 /**
